@@ -15,7 +15,7 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+An app that provides students with the option to find study buddies or submit tutor requests in which tutors can choose to accept or deny them.
 
 ## User Requirements
 
