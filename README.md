@@ -3,10 +3,10 @@
 A little exercise to get started with the specification phase of the software development lifecycle. See the [instructions](instructions.md) for more detail.
 
 ## Team members
--[Gavin Chen](https://github.com/OverYander)
--[Meili Liang](https://github.com/ml8397)
--[George Sanabria](https://github.com/sanabriageorge)
--[Hanlin Yan](https://github.com/hanlinyan-dev)
+- [Gavin Chen](https://github.com/OverYander)
+- [Meili Liang](https://github.com/ml8397)
+- [George Sanabria](https://github.com/sanabriageorge)
+- [Hanlin Yan](https://github.com/hanlinyan-dev)
 
 
 ## Stakeholders
@@ -19,7 +19,11 @@ An app that provides students with the option to find study buddies or submit tu
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
+- As a student, I want to find someone else I can study with so I can get help with a class.
+- As a student, I want to easily submit a tutor request so that I can get help quickly when needed.
+- As a student, I want help from a tutor so that I can get help from someone who is knowledgeable on the subject.
+- As a student, I want to message both other students and tutors so that I can easily communicate and set up times with them.
+- As a student, I want to view tutor ratings so that I can get the best help on a subject. 
 
 
 ## Activity Diagrams
