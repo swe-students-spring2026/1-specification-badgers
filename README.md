@@ -21,6 +21,7 @@ An app that provides students with the option to find study buddies or submit tu
 
 See instructions. Delete this line and place a list of your User Stories here.
 
+
 ## Activity Diagrams
 
 See instructions. Delete this line and place images of your UML Activity diagrams here.
