@@ -25,15 +25,26 @@ An app that provides students with the option to find study buddies or submit tu
 - As a student, I want to message both other students and tutors so that I can easily communicate and set up times with them.
 - As a student, I want to view tutor ratings so that I can get the best help on a subject.
  
-- As a tutor, I want to create a tutor profile so that students can see what subjects I can help with.
+- As a tutor, I want to edit a tutor profile so that students can see what subjects I can help with.
 - As a tutor, I want to see details of a tutor request so that I know the topic, time, and expectations.
 - As a tutor, I want to chat with a student after accepting a request so that we can coordinate tutoring details.
-- As a tutor, I want to decline a tutor request so that I am not forced to take requests I cannot handle.
+- As a tutor, I want to accept or decline a tutor request so that I am not forced to take requests I cannot handle.
 - As a tutor, I want to view tutor requests so that I can decide which students to help.
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+### As a student, I want to find someone else I can study with so I can get help with a class.
+![Student finds study partner activity diagram](images/Find_study_partner.png)
+
+### As a student, I want to easily submit a tutor request so that I can get help quickly when needed.
+![Student submits tutor request activity diagram](images/Submit_tutor_request.png)
+
+### As a tutor, I want to edit a tutor profile so that students can see what subjects I can help with.
+![Tutor edit profile activity diagram](images/Edit_profile.png)
+
+### As a tutor, I want to accept or decline a tutor request so that I am not forced to take requests I cannot handle.
+![Tutor accept or decline a request activity diagram](images/Accept_or_decline_request.png)
+
 
 ## Clickable Prototype
 
