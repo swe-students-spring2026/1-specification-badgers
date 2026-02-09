@@ -16,7 +16,7 @@ A little exercise to get started with the specification phase of the software de
 **Name:** Jenna  
 **Description:** A junior NYU student majoring in Mathematics and Data Science. Jenna frequently studies with peers and occasionally seeks academic help outside of class. She is interested in a product that helps her efficiently find appropriate study partners while avoiding unreliable or malicious interactions.
 
-#### Goals and Needs
+### Goals and Needs
 
 - **Filtered Study Partner Matching:**  
   Jenna wants the platform to filter out irrelevant or harmful responses, such as homework ghostwriting services or spam accounts, so that her study requests reach genuine students with similar academic goals.
@@ -24,7 +24,7 @@ A little exercise to get started with the specification phase of the software de
 - **Efficient Discovery of Study Partners:**  
   Jenna often feels unsure about where to post study partner requests and wants a single place that clearly matches her with appropriate peers.
 
-#### Problems and Frustrations
+### Problems and Frustrations
 
 - **Unclear Distinction Between Free and Paid Tutoring:**  
   Jenna is aware that most colleges offer free academic resources, including tutoring services, and finds it unclear why tutoring on the platform requires payment or how it differs in value.
@@ -40,7 +40,7 @@ A little exercise to get started with the specification phase of the software de
 **Name:** Ouyang  
 **Description:** A senior Baruch College student majoring in Computer Information Systems. Ouyang performs well academically and does not usually seek study partners herself. However, she is interested in serving as a tutor through the platform.
 
-#### Goals and Needs
+### Goals and Needs
 
 - **Gaining Experience:**
   Ouyang values the opportunity to reinforce her own knowledge by helping others. She also sees tutoring as a meaningful experience that could strengthen her resume if the platform gains credibility.
@@ -48,7 +48,7 @@ A little exercise to get started with the specification phase of the software de
 - **Earning Income:**  
   Ouyang expects fair financial compensation for her tutoring services and values transparency in how opportunities are distributed.
 
-#### Problems and Frustrations
+### Problems and Frustrations
 
 - **Unbalanced Supply and Demand:**  
   Ouyang is concerned that the platform may attract more tutors than students, resulting in fewer opportunities for tutors to receive requests and making it difficult to justify continued participation.
