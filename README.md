@@ -78,6 +78,11 @@ An app that provides students with the option to find study buddies or submit tu
 - As a tutor, I want to chat with a student after accepting a request so that we can coordinate tutoring details.
 - As a tutor, I want to accept or decline a tutor request so that I am not forced to take requests I cannot handle.
 - As a tutor, I want to view tutor requests so that I can decide which students to help.
+- As a tutor, I want to receieve notifications when a new request apears so that I do not miss opportunities.
+- As a tutor, I want to receieve payments through the app so that I do not have to worry about handling money.
+-As a tutor, I want students to leave reviews so that I can build my credibility.
+- As a tutor, I want to view my tutoring history so that I can view past sessions. 
+
 
 ## Activity Diagrams
 
