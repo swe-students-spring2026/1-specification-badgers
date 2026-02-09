@@ -67,6 +67,11 @@ An app that provides students with the option to find study buddies or submit tu
 - As a student, I want help from a tutor so that I can receive help from someone who is knowledgeable on the subject.
 - As a student, I want to message both other students and tutors so that I can easily communicate and set up times with them.
 - As a student, I want to view tutor ratings so that I can get the best help on a subject.
+- As a student, I want to find peers who are studying the same material.
+- As a student, I want to see basic information about a study partner or tutor so that I can decide whether they are a good fit before contacting them.
+- As a student, I want to schedule a study or tutoring session so that both parties have a clear and agreed-upon meeting time.
+- As a student, I want to specify my study topics so that I can be matched with compatible study partners.
+- As a student, I want to view upcoming study or tutoring sessions so that I can manage my schedule effectively.
 
 - As a tutor, I want to edit a tutor profile so that students can see what subjects I can help with.
 - As a tutor, I want to see details of a tutor request so that I know the topic, time, and expectations.
