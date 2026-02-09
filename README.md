@@ -73,6 +73,7 @@ An app that provides students with the option to find study buddies or submit tu
 - As a student, I want to specify my study topics so that I can be matched with compatible study partners.
 - As a student, I want to view upcoming study or tutoring sessions so that I can manage my schedule effectively.
 
+
 - As a tutor, I want to edit a tutor profile so that students can see what subjects I can help with.
 - As a tutor, I want to see details of a tutor request so that I know the topic, time, and expectations.
 - As a tutor, I want to chat with a student after accepting a request so that we can coordinate tutoring details.
@@ -80,9 +81,9 @@ An app that provides students with the option to find study buddies or submit tu
 - As a tutor, I want to view tutor requests so that I can decide which students to help.
 - As a tutor, I want to receieve notifications when a new request apears so that I do not miss opportunities.
 - As a tutor, I want to receieve payments through the app so that I do not have to worry about handling money.
--As a tutor, I want students to leave reviews so that I can build my credibility.
+- As a tutor, I want students to leave reviews so that I can build my credibility.
 - As a tutor, I want to view my tutoring history so that I can view past sessions. 
-
+- As a tutor, I want to decide my schedule by choosing certain requests so that I do not overload myself. 
 
 ## Activity Diagrams
 
