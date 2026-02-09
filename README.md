@@ -104,5 +104,4 @@ An app that provides students with the option to find study buddies or submit tu
 ![Tutor accept or decline a request activity diagram](images/Accept_or_decline_request.png)
 
 ## Clickable Prototype
-
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+[Prototype](https://www.figma.com/proto/Tt6emtfzOsoDzLULKZm09J/Badgers---CramTgther?t=DJKuvpdRpcNCaClO-1)
